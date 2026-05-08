@@ -32,7 +32,7 @@ Escribe la secuencia completa de comandos para subir un nuevo
 archivo llamado "datos.csv" a GitHub (desde git add hasta push):
 
 Tu respuesta:
-[Escribe aquí]
+git status en el directorio. git add (archivo nombre) para añadir. git commit -m "descripcion del porque". git push (para subir el archivo al repositorio seleccionado)
 
 ----------------------------------------------------------------
 FIN DEL ARCHIVO
